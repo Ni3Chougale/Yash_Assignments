@@ -18,6 +18,7 @@ public class P6 {
 		map.put("nashik", 2133);
 		map.put("sangali", 34233);
 			
+		System.out.println(map);
 		TreeMap<String, Integer> map2=new TreeMap<>(map);
 		System.out.println(map2);	
 	}

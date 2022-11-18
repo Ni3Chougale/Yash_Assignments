@@ -29,7 +29,7 @@ public class P2 {
 	        System.out.println("Element found at index "+ result);
 	    }
 	
-	    int binarySearch(int arr[], int l, int r, int x){
+	    public int binarySearch(int arr[], int l, int r, int x){
 	        if (r >= l) {
 	            int mid = l + (r - l) / 2;
 	 

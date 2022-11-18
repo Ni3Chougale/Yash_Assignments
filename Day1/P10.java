@@ -3,7 +3,8 @@ package Day1;
 
 public class P10 {
 	public static void main(String[] args) {
-		int n1 = 10, n2 = 20, lcm;
+		
+		int n1 = 5 , n2 = 15, lcm;
 	    lcm = (n1 > n2) ? n1 : n2;
 	    int hcf = 1;
 	    

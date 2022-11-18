@@ -21,6 +21,7 @@ public class P4 {
 		list.add("nitin");
 		list.add("pratik");
 			
+		
 		Set<String> set=new HashSet<>();
 		set.addAll(list);
 		list.clear();

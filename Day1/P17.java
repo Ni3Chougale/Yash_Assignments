@@ -7,7 +7,7 @@ public class P17 {
 		String str=new String("Yash Technology");
 		String ans =str.intern();
 		System.out.println("Heap memory:"+str);
-		System.out.println("String Constunt pool:"+ans);
+		System.out.println("String Constant pool:"+ans);
 	}
 }
 
